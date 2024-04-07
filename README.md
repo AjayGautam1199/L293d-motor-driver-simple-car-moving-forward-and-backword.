@@ -1,7 +1,7 @@
 # L293d-motor-driver-simple-car-moving-forward-and-backword.
 let's create a new code that moves the car forward for 10 seconds and then returns back in 10 seconds using the specified motor connections.
 
-# //=================connection is very important=============//
+# //==connection is very important==//
 
 ## 1. Motor Connections:
 The code is designed to control two motors, referred to as Motor A and Motor B. The connections for these motors are as follows:
