@@ -16,7 +16,10 @@ Enable Pin: enB (connected to pin 4 on the Arduino)
 Input 3: in3 (connected to pin 6 on the Arduino)
 Input 4: in4 (connected to pin 5 on the Arduino)
 
-< img src ="https://github.com/AjayGautam1199/L293d-motor-driver-simple-car-moving-forward-and-backword./blob/main/circuit%20diagram.png">
+<img src="https://github.com/AjayGautam1199/L293d-motor-driver-simple-car-moving-forward-and-backword./blob/main/circuit%20diagram.png" alt="Circuit Diagram" /> <!-- #1 -->
+
+<img src="https://github.com/AjayGautam1199/L293d-motor-driver-simple-car-moving-forward-and-backword./blob/main/image.png" alt="Image" /> <!-- #2 -->
+
 
 ## 2. Setup Function (setup()):
 In the setup() function, the code sets the motor control pins as outputs using the pinMode() function. This function configures the specified pins for output, allowing them to control the motor.
