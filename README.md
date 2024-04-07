@@ -7,14 +7,14 @@ let's create a new code that moves the car forward for 10 seconds and then retur
 The code is designed to control two motors, referred to as Motor A and Motor B. The connections for these motors are as follows:
 
 ### Motor A:
-Enable Pin: enA (connected to pin 8 on the Arduino)
-Input 1: in1 (connected to pin 10 on the Arduino)
-Input 2: in2 (connected to pin 9 on the Arduino)
+* Enable Pin: enA (connected to pin 8 on the Arduino)
+* Input 1: in1 (connected to pin 10 on the Arduino)
+* Input 2: in2 (connected to pin 9 on the Arduino)
 
 ### Motor B:
-Enable Pin: enB (connected to pin 4 on the Arduino)
-Input 3: in3 (connected to pin 6 on the Arduino)
-Input 4: in4 (connected to pin 5 on the Arduino)
+* Enable Pin: enB (connected to pin 4 on the Arduino)
+* Input 3: in3 (connected to pin 6 on the Arduino)
+* Input 4: in4 (connected to pin 5 on the Arduino)
 
 <img src="https://github.com/AjayGautam1199/L293d-motor-driver-simple-car-moving-forward-and-backword./blob/main/circuit%20diagram.png" alt="Circuit Diagram" /> <!-- #1 -->
 
